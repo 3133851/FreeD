@@ -2,7 +2,7 @@
   "sites": [
 	    {
       "key": "2022年1月2日 ",
-      "name": "首页精简接口2022年1月2日 祝大家新年快乐",
+      "name": "首页精简接口2022年1月5日 祝大家新年快乐",
       "type": 0,
       "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/",
       "searchable": 1,
